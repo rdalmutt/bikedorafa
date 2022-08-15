@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 20pt;
+}
+
+.carouseltxt{
+    color: brown;
+    text-align: center;
+    font-size: 20pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.carousel-control-next-icon{
+    background-color: rgb(106, 42, 165);
+    width: 0.5cm;
+    height: 2cm;
+    position: absolute;
+}
+
+.carousel-control-prev-icon{
+    background-color: rgb(106, 42, 165);
+    width: 0.5cm;
+    height: 2cm;
+    position: absolute;
+}
+
+.d-block{
+    width: 80%;
+    margin-left: 10%;
+
+}
+
+.carousel-inner{
+    max-width: 60%;
+    margin-left: 20%;
+}
+
+.card{
+    margin-top: 5pt;
+    height: 10cm;
+    width: 10cm;
+    display: inline-table;
+    border-color: black;
+    border-style: double;
+}
+
+.card-text{
+    text-align: center, justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#depoimentos{
+    align-items: center;
+}
+
+h5{
+    font-style: normal;
+    font-family: Impact, 'Haettenschweiler', Arial Narrow Bold, sans-serif;
+    text-align: center;
+    object-position: center;
+    font-size: 16pt;
+}
+
+.row{
+    margin-top: 10pt;
+}
+
+.col{
+    align-items: center;
+    text-align: center;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+p{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container-fluid{
+    margin-top: 10pt;
+    border-color: black;
+    border-style: groove;
+    border-right: white;
+    border-left: white;
+    border-top: white;
+    padding-block-end: 10pt;
+}
+
+h3{
+    text-align: center;
+    padding-top: 5pt;
+}
+
+.form-control{
+    border-color: black;
+}
+
+.form-group{
+    text-align: left;
+}
+
+.card-img-top{
+    display: inline-block;
+    height: 7cm;
+    width: 10cm;
+    align-items: center;
+    padding: 8pt;
+}
+
+#imgcat{
+    height: 8cm;
+    width: 8cm;
+    display: inline-block;
+    align-items: center;
+}
